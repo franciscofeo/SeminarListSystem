@@ -1,1 +1,1 @@
-# SeminarListSystem
+# Seminar List System
